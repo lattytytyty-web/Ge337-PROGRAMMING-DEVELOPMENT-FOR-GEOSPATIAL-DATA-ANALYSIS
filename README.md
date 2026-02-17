@@ -4,7 +4,8 @@ This repository contains laboratory assignments for the course **GE337 Programmi
 
 ## Contents
 
-* Lab1: Service Area Analysis using GeoPandas
+* Lab1:การวิเคราะห์พื้นที่ให้บริการของสถานีขนส่งสาธารณะ
+ด้วย GeoPandas ใน Python Colab
 * Lab2: ...
 * Lab3: ...
 
