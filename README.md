@@ -7,7 +7,7 @@ This repository contains laboratory assignments for the course **GE337 Programmi
 * Lab1:การวิเคราะห์พื้นที่ให้บริการของสถานีขนส่งสาธารณะ
 ด้วย GeoPandas ใน Python Colab
 * Lab2:การแสดงผลข้อมูลเชิงพื้นที่ด้วย GeoPandandas,Matplotlib,Folium และการวิเคราะห์ข้อมูล Raster ด้วย Rasterio
-* Lab3: ...
+* Lab3:การวิเคราะห์การเปลี่ยนแปลงพื้นที่สีเขียวโดยใช้ NDVI จากข้อมูลดาวเทียมหลายช่วงเวลา
 
 ## Tools Used
 
